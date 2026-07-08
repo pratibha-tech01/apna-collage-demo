@@ -1,4 +1,4 @@
 # apna-collage-demo
 this is my git repository
-<b>
+<br>
 Author- pratibha idhate
